@@ -8,3 +8,4 @@ Android Workshop conducted by Cyberblitz in association with IEDC and KSUM.
 
 ## Session 1
 [Hello World](https://github.com/iamjosephvarghese/HelloWorld)   
+[Android Activity Life Cycle](https://github.com/iamjosephvarghese/AndroidActivityLifeCycle)
